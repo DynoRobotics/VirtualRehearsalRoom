@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started Instructions/Setting up an OSC light.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started Instructions/Setting up an OSC light.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started Instructions/Setting up an OSC light.md",
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started Instructions/Setting up an OSC light.md"
+                "file": "Getting Started.md"
               }
             }
           }
@@ -151,12 +151,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "c2b31856edc064a5",
   "lastOpenFiles": [
+    "Getting Started Instructions/Setting up a networked OSC light.md",
+    "2023-05-30.md",
     "Getting Started.md",
+    "Getting Started Instructions/Setting up an OSC light.md",
     "Getting Started Instructions/Importing custom simple avatar.md",
     "Getting Started Instructions/Importing a Full Body avatar from Mixamo.md",
     "Getting Started Instructions/Connecting an Xsens tracking suit.md",
@@ -166,7 +170,6 @@
     "Getting Started Instructions/Setting up PUN netwokring.md",
     "Getting Started Instructions/Creating a new VRR project (with settings object).md",
     "Getting Started Instructions/Opening the project in Unity.md",
-    "Getting Started Instructions/Setting up an OSC light.md",
     "Media/Pasted image 20230530123448.png",
     "Media/Pasted image 20230530133603.png",
     "Media/Pasted image 20230530133309.png",
@@ -174,7 +177,6 @@
     "Media/Pasted image 20230530123523.png",
     "Getting Started PDF.md",
     "Media/Pasted image 20230530102020.png",
-    "Getting Started Instructions/Setting up a networked OSC light.md",
     "Media/Pasted image 20230530110447.png",
     "Media/Pasted image 20230530110415.png",
     "Media/Pasted image 20230530105442.png",

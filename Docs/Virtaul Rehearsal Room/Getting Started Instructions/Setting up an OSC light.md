@@ -45,7 +45,7 @@ Now go to the lx1 GameObject inspector and add OSC_LX.
 Find Soft Intersections Blending Distances in the Volumetric Light Beam component and set them both to 0/off. (The light beam will not be visible in the camera otherwise)
 ![[Pasted image 20230529135319.png]]
 
-Also, check the "Track changes during Playtime options". Nothing will happen visually to the light beam when you change the properties if this is not activated.
+Also, check the "Track changes during Playtime options". Nothing will happen visually to the light beam when you change the properties over OSC if this is not activated.
 ![[Pasted image 20230529142357.png]]
 
 Press play in Unity and make sure you can see the light beam in the Game window.
