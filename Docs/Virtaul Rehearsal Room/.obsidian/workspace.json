@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions/Setting up a networked OSC light.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dad6ed9e83177285",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20230529165744.png"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions/Setting up a networked OSC light.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions/Setting up a networked OSC light.md",
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instructions/Setting up a networked OSC light.md"
+                "file": "Getting Started.md"
               }
             }
           }
@@ -166,33 +156,34 @@
   },
   "active": "c2b31856edc064a5",
   "lastOpenFiles": [
-    "Instructions/Setting up PUN netwokring.md",
-    "Instructions/Setting up an OSC light.md",
-    "Pasted image 20230530110447.png",
-    "Pasted image 20230530110415.png",
-    "Pasted image 20230530105442.png",
-    "Pasted image 20230530104542.png",
-    "Pasted image 20230530104509.png",
-    "Pasted image 20230530104307.png",
-    "Pasted image 20230530104225.png",
-    "Pasted image 20230530103957.png",
-    "Pasted image 20230530103806.png",
-    "Pasted image 20230530102558.png",
+    "Getting Started Instructions/Opening the project in Unity.md",
+    "Media/Pasted image 20230530123448.png",
     "Getting Started.md",
+    "Getting Started Instructions/Creating a new VRR project (with settings object).md",
+    "Media/Pasted image 20230530133603.png",
+    "Media/Pasted image 20230530133309.png",
+    "Media/Pasted image 20230530123641.png",
+    "Media/Pasted image 20230530123523.png",
     "Getting Started PDF.md",
-    "Instructions/Adding default avatars to the project.md",
-    "Instructions/Setting up a networked OSC light.md",
+    "Media/Pasted image 20230530102020.png",
+    "Getting Started Instructions/Setting up a networked OSC light.md",
+    "Getting Started Instructions/Setting up PUN netwokring.md",
+    "Getting Started Instructions/Setting up an OSC light.md",
+    "Media/Pasted image 20230530110447.png",
+    "Media/Pasted image 20230530110415.png",
+    "Media/Pasted image 20230530105442.png",
+    "Media/Pasted image 20230530104542.png",
+    "Getting Started Instructions/Adding default avatars to the project.md",
     "Pasted image 20230529164328.png.md",
-    "Instructions/Importing custom simple avatar.md",
-    "Instructions/Importing a Full Body avatar from Mixamo.md",
-    "Instructions/Creating a new VRR project (with settings object).md",
-    "Instructions/Connecting an Xsens tracking suit.md",
-    "Instructions/Adding scenes to the project.md",
-    "Instructions/Testing the project in VR with a simple avatar.md",
+    "Getting Started Instructions/Importing custom simple avatar.md",
+    "Getting Started Instructions/Importing a Full Body avatar from Mixamo.md",
+    "Getting Started Instructions/Connecting an Xsens tracking suit.md",
+    "Getting Started Instructions/Adding scenes to the project.md",
+    "Getting Started Instructions/Testing the project in VR with a simple avatar.md",
     "Adding avatars to the project.md",
     "Pasted image 20230523120602.png.md",
     "Pasted image 20230522155305.png.md",
     "Pasted image 20230522153212.png.md",
-    "Instructions"
+    "Getting Started Instructions"
   ]
 }

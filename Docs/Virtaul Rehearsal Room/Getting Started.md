@@ -1,3 +1,11 @@
+Welcome to the getting started guide for Virtual Rehearsal Room!
+
+The following mini-guides are best followed in order, but it should be possible to skip steps or follow them in a different order without too many issues.
+The exception is step [[Setting up PUN netwokring]] which needs to be completed for most of the later steps to work.
+
+In the the following guides we will create the NewProject and Tutorials folders with content. They already exist in the project when you first download it. It is up to you if you want to delete them and follow the instructions for how to recreate them, or just look at the guides and files as a reference.
+![[Pasted image 20230530133603.png]]
+
 1. [[Opening the project in Unity]]
 2. [[Creating a new VRR project (with settings object)]]
 3. [[Setting up PUN netwokring]]

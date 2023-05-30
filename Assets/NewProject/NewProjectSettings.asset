@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: NewProjectSettings
   m_EditorClassIdentifier: 
   ProductName: VirtualRehearsalRoom
-  AppIdPUN: 449f6909-0340-4d72-aa5c-c9476e9e1bbe
-  AppIdVoice: dffa7083-eaf4-4b33-98cc-d6264a676895
+  AppIdPUN: 
+  AppIdVoice: 
   UseDevAppId: 0
   DevAppIdPUN: 
   DevAppIdVoice: 
@@ -25,7 +25,7 @@ MonoBehaviour:
   ShowDesktopOverlayUI: 0
   PerfomerDefaultVoiceType: 1
   AudienceDefaultVoiceType: 1
-  StartingSceneName: BlackBoxWithMirrorAndSpotlight
+  StartingSceneName: NewProjectStartingScene
   Scenes:
   - sceneAsset: {fileID: 102900000, guid: d5767fdda86cad04f9b68fdcd09cb8be, type: 3}
     scenePath: Assets/NewProject/Scenes/NewProjectStartingScene.unity
