@@ -1,5 +1,5 @@
-![[Pasted image 20230523164342.png]]We have tried to make using characters from https://www.mixamo.com/ for Full Body tracking as easy as possible, but there is one tweak that is needed for them to work well as a VR character.
-More specifically, we need to make sure that the head is invisible for the person that is controlling the character. To make this possible we need the mesh for the head to be separate from the mesh for the rest of the body. This is unfortunately not the case for many Maximo characters.
+![[Pasted image 20230523164342.png]]We have tried to make it as easy as possible to use characters from https://www.mixamo.com/ for Full Body tracking, but there is one tweak that is needed for them to work well as a VR character.
+We need to make sure that the head is invisible for the person that is controlling the character. To make this possible we need the mesh for the head to be separated from the mesh for the rest of the body. This is unfortunately not the case out of the boc for many Maximo characters.
 
 Splitting the mesh up is a relatively simple operation in 3d programs like Blender (https://www.blender.org/download/). I will give a quick example of how to do it in Blender here.
 
@@ -11,24 +11,21 @@ Download the Claire avatar from Mixamo.
 Create a folder called Art/Claire under NewProject and place the downloaded .fbx file there.
 ![[Pasted image 20230523161342.png]]
 
-
-https://www.youtube.com/watch?v=BQIie7O9CVE&ab_channel=MKGraphics
-
-Open Blender, delete the starting cube, camera and light and import the .fbx file of claire.
+Open Blender, delete the starting cube, camera and light and import the .fbx file of Claire.
 ![[Pasted image 20230523161759.png]]
 
-First, hide all meshes except the Girl_Body_Geo mesh and go into Modeling/Edit Mode.
-We will first use the Bisect tool with the whole mesh selected to split it in 2 parts at the neck. After we have selected only the head (including the hair and rings) we then press P and separate by selection.
+First, hide all meshes except the Girl_Body_Geo mesh and go into Modelling/Edit Mode.
+We will first use the Bisect tool with the whole mesh selected to split it in 2 parts at the neck. After we select either just the head of just be body and then press P and separate by selection. (Selecting just the body is much easier in this case)
 See this video for a more detailed explanation https://www.youtube.com/watch?v=fVOYv8HdMxI&ab_channel=PIXXO3D
 ![[Pasted image 20230523162353.png]]
 After the split, it should look something like this.
 ![[Pasted image 20230523164350.png]]
 Rename the new Girl_Body_Geo.001 mesh to Girl_Head_Geo.
 
-Try hiding the head to make sure you managed to select all the head meshes.
+Try hiding the head to make sure you managed to do the split properly.
 ![[Pasted image 20230523165800.png]]
 
-Now it's time to export the .fbx back to Unity!
+Now it's time to export the .fbx back to Unity.
 Make sure you delete the camera and light before you do the export.
 ![[Pasted image 20230523170346.png]]
 Save it as a new file, don't overwrite the old one.
@@ -62,3 +59,6 @@ Put all mesh renderers that have to do with the head under Head Mesh Renderers a
 Now we can finally add the avatar prefab to the settings object (as the first entry) and test it with VR and body tracking!
 ![[Pasted image 20230523174133.png]]
 ![[Pasted image 20230523175311.png]]
+
+On a sidenote, there is some good information about about creating rigged characters with Mixamo in this video:
+https://www.youtube.com/watch?v=BQIie7O9CVE&ab_channel=MKGraphics

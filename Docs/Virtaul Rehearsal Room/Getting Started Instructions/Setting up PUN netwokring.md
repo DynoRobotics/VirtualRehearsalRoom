@@ -14,7 +14,7 @@ Your new PUN app should now show up back in the dashboard view.
 Click "CREATE NEW APP" again and create a Voice app for the project.
 ![[Pasted image 20230523105138.png]]![[Pasted image 20230523105517.png]]
 
-Before we connect the apps to Unity, it is recommended that you configure them to only have one "Allowed Region". If we don't do this, people who connect to the app from different parts of the world will only be able to interact with those connected to the same region.
+Before we connect the apps to Unity, we recommend that you configure them to only have one "Allowed Region". If we don't do this, people who connect to the app from different parts of the world may not be able to see or hear each other.
 
 Start by pressing MANAGE on the PUN app.
 ![[Pasted image 20230523110426.png]]

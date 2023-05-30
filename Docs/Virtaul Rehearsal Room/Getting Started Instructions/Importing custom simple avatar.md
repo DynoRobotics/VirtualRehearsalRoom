@@ -12,7 +12,7 @@ Start by making a copy of the tutorial .fbx to Assets/NewProject/Art/Snowman.
 Extract the materials from the .fbx so that we can change the colours of the avatar more easily.
 ![[Pasted image 20230529095737.png]]
 
-The position and rotation of the head and the body matters and the easiest way to get them right is to use an existing SimpleAvatar prefab as a reference.
+The position and rotation of the head and the body matters and the easiest way to get them approximately correct is to use an existing SimpleAvatar prefab as a reference.
 Make a folder called Assets/NewProject/SimpleAvatars and copy one of the existing SimpleAvatars prefabs there.
 ![[Pasted image 20230529101625.png]]
 ![[Pasted image 20230529101954.png]]

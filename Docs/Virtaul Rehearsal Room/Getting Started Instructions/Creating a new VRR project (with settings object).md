@@ -7,7 +7,7 @@ This settings object contains among other things:
 * Full Body avatars
 * Voice settings
 
-We recommend that you create a folder under Assets in the Unity project that contains all assets related to the project to keep things organized.
+We recommend that you create a folder under Assets in the Unity project that contains all assets related to the project.
 ![[Pasted image 20230522153423.png]]
 
 Start by creating a subfolder to contain the new settings object.
