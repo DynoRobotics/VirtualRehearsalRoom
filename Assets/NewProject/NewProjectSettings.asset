@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4955240f52e826f4dbff0150c19b7821, type: 3}
+  m_Name: NewProjectSettings
+  m_EditorClassIdentifier: 
+  ProductName: VirtualRehearsalRoom
+  AppIdPUN: 449f6909-0340-4d72-aa5c-c9476e9e1bbe
+  AppIdVoice: dffa7083-eaf4-4b33-98cc-d6264a676895
+  UseDevAppId: 0
+  DevAppIdPUN: 
+  DevAppIdVoice: 
+  AddressableProfile: 
+  EnableAudienceMenu: 1
+  RandomizeAudienceAvatar: 0
+  VRMoveSpeed: 1.5
+  ShowDesktopOverlayUI: 0
+  PerfomerDefaultVoiceType: 1
+  AudienceDefaultVoiceType: 1
+  StartingSceneName: BlackBoxWithMirrorAndSpotlight
+  Scenes:
+  - sceneAsset: {fileID: 102900000, guid: d5767fdda86cad04f9b68fdcd09cb8be, type: 3}
+    scenePath: Assets/NewProject/Scenes/NewProjectStartingScene.unity
+  - sceneAsset: {fileID: 102900000, guid: d1392cd0dea8b4f438f057da172601ea, type: 3}
+    scenePath: Assets/Tutorials/OSC Light/Scenes/BlackBoxWithMirrorAndSpotlight.unity
+  SimpleAvatars:
+  - {fileID: 8933115225953383728, guid: ecdd23e11d504fd4eba651874e8ffc29, type: 3}
+  - {fileID: 8933115225953383728, guid: c1a172b3347a24e18ba2d7e3777cd7ea, type: 3}
+  - {fileID: 8933115225953383728, guid: 0bdc7a5611a3a4ebea4844b49b9ff9d9, type: 3}
+  FullBodyAvatars:
+  - {fileID: 875422063415032144, guid: 43ccc100f6933ae4a92855b0cf6f3e46, type: 3}
+  - {fileID: -3350503567919091681, guid: a1d38668d4adc144f8e8c8104013567f, type: 3}
+  - {fileID: 3984130594760838670, guid: a2d7f448ba7ce084baac47d171f32e83, type: 3}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4955240f52e826f4dbff0150c19b7821, type: 3}
+  m_Name: DefaultVirtualRehearsalRoomSettings
+  m_EditorClassIdentifier: 
+  ProductName: VirtualRehersalRoom
+  AppIdPUN: 1bb657ed-b33c-44e1-9892-46eabf1a343c
+  AppIdVoice: 00004db7-5de6-4374-9bb0-5627df4790ce
+  UseDevAppId: 0
+  DevAppIdPUN: 64d6d362-dc98-4eea-b115-7ea9e2135166
+  DevAppIdVoice: 914533ac-b168-44ed-b11d-4c8f314a1bd5
+  AddressableProfile: Default
+  EnableAudienceMenu: 1
+  RandomizeAudienceAvatar: 0
+  VRMoveSpeed: 1.5
+  ShowDesktopOverlayUI: 0
+  PerfomerDefaultVoiceType: 1
+  AudienceDefaultVoiceType: 1
+  StartingSceneName: BlackBoxWithMirror
+  Scenes:
+  - sceneAsset: {fileID: 102900000, guid: e0e7e88f225e910408d6a75375f8ce1d, type: 3}
+    scenePath: Assets/VirtualRehearsalRoom/Scenes/Default/BlackBox.unity
+  - sceneAsset: {fileID: 102900000, guid: 4613689a2f04d954d923a94a4245a441, type: 3}
+    scenePath: Assets/VirtualRehearsalRoom/Scenes/Default/BlackBoxWithMirror.unity
+  SimpleAvatars:
+  - {fileID: 8933115225953383728, guid: c1a172b3347a24e18ba2d7e3777cd7ea, type: 3}
+  - {fileID: 8933115225953383728, guid: 0bdc7a5611a3a4ebea4844b49b9ff9d9, type: 3}
+  FullBodyAvatars:
+  - {fileID: -3350503567919091681, guid: a1d38668d4adc144f8e8c8104013567f, type: 3}
+  - {fileID: 3984130594760838670, guid: a2d7f448ba7ce084baac47d171f32e83, type: 3}

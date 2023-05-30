@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AIPLogin.unity
+    guid: 5d466496aa0f54aabba8117fcb047c24
+  - enabled: 1
+    path: Assets/VirtualRehearsalRoom/Scenes/Required/Login.unity
+    guid: 6a526b5f6529d9f44a4b5ac5afb70a6c
+  - enabled: 1
+    path: Assets/VirtualRehearsalRoom/Scenes/Required/Login 1.unity
+    guid: 4d8b7a25c96d1c345863da916d31d0e6
+  - enabled: 0
+    path: Assets/VirtualRehearsalRoom/Scenes/Required/AutoLoginDesktop.unity
+    guid: 158451027b9d046e9b45ed5135be0f08
+  - enabled: 1
+    path: Assets/VirtualRehearsalRoom/Scenes/Default/BlackBoxWithMirror.unity
+    guid: 4613689a2f04d954d923a94a4245a441
+  - enabled: 1
+    path: Assets/VirtualRehearsalRoom/Scenes/Required/ResettingScene.unity
+    guid: beb16d9a27acbaf44a28994654ec95fe
+  - enabled: 1
+    path: Assets/VirtualRehearsalRoom/Scenes/Default/BlackBox.unity
+    guid: e0e7e88f225e910408d6a75375f8ce1d
+  - enabled: 1
+    path: Assets/NewProject/Scenes/NewProjectStartingScene.unity
+    guid: d5767fdda86cad04f9b68fdcd09cb8be
+  - enabled: 1
+    path: Assets/Tutorials/OSC Light/Scenes/BlackBoxWithMirrorAndSpotlight.unity
+    guid: d1392cd0dea8b4f438f057da172601ea
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a43dc743bf000c44aae2d65643216ac3,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 4af086977cadbe544a71f78ed5b07253,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 44a767e7c26320742b2890a719dd5b9d,
+      type: 2}
