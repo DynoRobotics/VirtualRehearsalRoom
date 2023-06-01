@@ -6,14 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AIPLogin.unity
-    guid: 5d466496aa0f54aabba8117fcb047c24
-  - enabled: 1
     path: Assets/VirtualRehearsalRoom/Scenes/Required/Login.unity
     guid: 6a526b5f6529d9f44a4b5ac5afb70a6c
-  - enabled: 1
-    path: Assets/VirtualRehearsalRoom/Scenes/Required/Login 1.unity
-    guid: 4d8b7a25c96d1c345863da916d31d0e6
   - enabled: 0
     path: Assets/VirtualRehearsalRoom/Scenes/Required/AutoLoginDesktop.unity
     guid: 158451027b9d046e9b45ed5135be0f08

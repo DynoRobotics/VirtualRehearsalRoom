@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ec692dcb75a13af",
+        "id": "4926e9e09db60b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b31856edc064a5",
+            "id": "976db11e34017bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 250.5
   },
   "right": {
     "id": "377813b71134f287",
@@ -155,11 +155,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c2b31856edc064a5",
+  "active": "976db11e34017bd7",
   "lastOpenFiles": [
+    "Getting Started Instructions/Building and uploading to Quest.md",
+    "Getting Started.md",
+    "Media/Pasted image 20230601095652.png",
+    "Media/Pasted image 20230601104127.png",
+    "Media/Pasted image 20230601103427.png",
+    "Media/Pasted image 20230601101609.png",
+    "Media/Pasted image 20230601100831.png",
+    "Media/Pasted image 20230601100638.png",
+    "Media/Pasted image 20230531163406.png",
+    "Pasted image 20230531164017.png",
+    "Pasted image 20230531163805.png.md",
+    "Pasted image 20230531163805.png",
+    "Pasted image 20230531163750.png",
     "Getting Started Instructions/Setting up a networked OSC light.md",
     "2023-05-30.md",
-    "Getting Started.md",
     "Getting Started Instructions/Setting up an OSC light.md",
     "Getting Started Instructions/Importing custom simple avatar.md",
     "Getting Started Instructions/Importing a Full Body avatar from Mixamo.md",
@@ -170,17 +182,7 @@
     "Getting Started Instructions/Setting up PUN netwokring.md",
     "Getting Started Instructions/Creating a new VRR project (with settings object).md",
     "Getting Started Instructions/Opening the project in Unity.md",
-    "Media/Pasted image 20230530123448.png",
-    "Media/Pasted image 20230530133603.png",
-    "Media/Pasted image 20230530133309.png",
-    "Media/Pasted image 20230530123641.png",
-    "Media/Pasted image 20230530123523.png",
     "Getting Started PDF.md",
-    "Media/Pasted image 20230530102020.png",
-    "Media/Pasted image 20230530110447.png",
-    "Media/Pasted image 20230530110415.png",
-    "Media/Pasted image 20230530105442.png",
-    "Media/Pasted image 20230530104542.png",
     "Pasted image 20230529164328.png.md",
     "Adding avatars to the project.md",
     "Pasted image 20230523120602.png.md",

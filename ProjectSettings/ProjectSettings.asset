@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: BombinaBombast
+  companyName: DynoRobotics
   productName: VirtualRehearsalRoom
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -362,6 +362,10 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -381,13 +385,13 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.BombinaBombast.AIPartiet
-    Standalone: com.DynoRobotics.Metaklubb
+    Android: com.BombinaBombast.VirtualRehearsalRoom
+    Standalone: com.DynoRobotics.VirtualRehearsalRoom
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
@@ -927,7 +931,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    Android: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CROSS_PLATFORM_INPUT;MOBILE_INPUT;ENVIRO_LW;ENVIRO_HD;ENVIRO_LWRP;ENVIRO_PHOTON_SUPPORT
+    Android: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;CROSS_PLATFORM_INPUT;MOBILE_INPUT;ENVIRO_LW;ENVIRO_HD;ENVIRO_LWRP;ENVIRO_PHOTON_SUPPORT;VLB_URP
     CloudRendering: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER;ENVIRO_LW;ENVIRO_HD;ENVIRO_LWRP;ENVIRO_PHOTON_SUPPORT
     EmbeddedLinux: ENVIRO_LW;ENVIRO_HD
     GameCoreXboxOne: ENVIRO_LW;ENVIRO_HD;ENVIRO_PHOTON_SUPPORT

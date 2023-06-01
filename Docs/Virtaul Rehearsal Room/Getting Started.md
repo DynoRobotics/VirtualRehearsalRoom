@@ -17,6 +17,7 @@ In the the guides, we will create the NewProject and Tutorials folders and their
 10. [[Importing custom simple avatar]]
 11. [[Setting up an OSC light]]
 12. [[Setting up a networked OSC light]]
+13. [[Building and uploading to Quest]]
 
 If you have any questions,  send me an email!
 samuel@dynorobotics.se
