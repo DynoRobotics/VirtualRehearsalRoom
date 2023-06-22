@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e5bbf47e157989a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "a0d7294093af648a",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "976db11e34017bd7",
+  "active": "e5bbf47e157989a4",
   "lastOpenFiles": [
     "Getting Started Instructions/Creating a new VRR project (with settings object).md",
     "Getting Started.md",
