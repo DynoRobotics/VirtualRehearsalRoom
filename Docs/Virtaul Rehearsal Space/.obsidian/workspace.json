@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0d7294093af648a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting Started Instructions/Creating a new VRR project (with settings object).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -157,8 +169,9 @@
   },
   "active": "976db11e34017bd7",
   "lastOpenFiles": [
-    "Getting Started Instructions/Building and uploading to Quest.md",
+    "Getting Started Instructions/Creating a new VRR project (with settings object).md",
     "Getting Started.md",
+    "Getting Started Instructions/Building and uploading to Quest.md",
     "Media/Pasted image 20230601095652.png",
     "Media/Pasted image 20230601104127.png",
     "Media/Pasted image 20230601103427.png",
@@ -180,7 +193,6 @@
     "Getting Started Instructions/Adding default avatars to the project.md",
     "Getting Started Instructions/Adding scenes to the project.md",
     "Getting Started Instructions/Setting up PUN netwokring.md",
-    "Getting Started Instructions/Creating a new VRR project (with settings object).md",
     "Getting Started Instructions/Opening the project in Unity.md",
     "Getting Started PDF.md",
     "Pasted image 20230529164328.png.md",

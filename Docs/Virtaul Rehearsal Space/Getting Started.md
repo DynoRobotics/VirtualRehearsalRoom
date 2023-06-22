@@ -1,4 +1,4 @@
-Welcome to the getting started guide for Virtual Rehearsal Room!
+Welcome to the getting started guide for Virtual Rehearsal Space!
 
 The following mini-guides are best followed in order, but it should be possible to skip steps or follow them in a different order without too many issues.
 The exception is step [[Setting up PUN netwokring]] which needs to be completed for most of the later steps to work.
